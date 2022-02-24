@@ -12,7 +12,7 @@ compileJava.options.encoding = 'UTF-8'
 compileTestJava.options.encoding = 'UTF-8'
 
 tasks.named('jar') {
-	archiveFileName = 'utf'
+	archiveFileName = 'utf.jar'
 
 	manifest {
 		attributes 'Main-Class': mainClassName
