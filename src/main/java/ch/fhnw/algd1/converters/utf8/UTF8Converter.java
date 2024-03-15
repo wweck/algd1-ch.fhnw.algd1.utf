@@ -4,7 +4,7 @@ package ch.fhnw.algd1.converters.utf8;
  * Created on 05.09.2014
  */
 /**
- * @author Wolfgang Weck
+ * @author 
  */
 public class UTF8Converter {
 	public static byte[] codePointToUTF(int x) {
